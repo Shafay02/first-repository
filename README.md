@@ -1,5 +1,5 @@
 # first-repository
 <br>
-Author : 'M.Shafay'
-sister1 : 'Ayesha'
-sister2 : 'Areesha'
+Author : 'M.Shafay' <br>
+sister1 : 'Ayesha' <br>
+sister2 : 'Areesha' <br>
